@@ -1,0 +1,6 @@
+{
+  "name": "Quantum Mechanics and Computing Visualiser",
+  "description": "Interactive educational platform for quantum mechanics and computing featuring D3.js simulations, quantum logic gates, exploded quantum computer architecture, and guided tutorials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
